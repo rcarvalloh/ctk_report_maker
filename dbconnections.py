@@ -1,9 +1,9 @@
-connDataRadius = {'hostname': 'dev-01.citik.net',
-                 'username': 'devtest01',
-                 'password': 'devtest2017.',
-                 'database': 'citik_hotspot_dev'}
+connDataRadius = {'hostname': 'HOSTNAME',
+                  'username': 'USERNAME',
+                  'password': 'PASSWORD',
+                  'database': 'DATABASE'}
 
-connDataHotspot = {'hostname': 'dev-01.citik.net',
-                 'username': 'devtest01',
-                 'password': 'devtest2017.',
-                 'database': 'citik_hotspot_dev'} 
+connDataHotspot = {'hostname': 'HOSTNAME',
+                   'username': 'USERNAME',
+                   'password': 'PASSWORD',
+                   'database': 'DATABASE'} 
